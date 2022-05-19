@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escolha seu personagem - MapaDev Week</title>
+    <title>Marvel Fight</title>
     <link rel="stylesheet" href="./src/css/variaveis.css" />
     <link rel="stylesheet" href="./src/css/reset.css" />
     <link rel="stylesheet" href="./src/css/fontes.css" />    
@@ -81,6 +81,9 @@
                 </div>
             </div>
         </div>
+        <audio id="player" src="./src/files/audio.mp3" loop></audio>
+        <button class="botao1" onclick="document.getElementById('player').play()">Play</button>
+        <button class="botao2" onclick="document.getElementById('player').pause()">Pause</button>
     </main>
     <script src="./src/js/index.js"></script>
 </body>

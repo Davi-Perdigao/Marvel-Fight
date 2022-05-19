@@ -154,3 +154,37 @@ main{
     animation: text-glowing-red .3s ease-in-out infinite;
     animation-direction: alternate;
 }
+
+.botao1{
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 100px;
+    height: 25px;
+    cursor: pointer;
+    z-index: 2;
+    border-radius: 5px;
+    align-self: center;
+    margin: -10px;
+}
+
+.botao1:hover{
+    animation: c-glowing-blue .3s ease-in-out infinite;
+    animation-direction: alternate;
+    transform: scale(1.15);
+}
+
+.botao2{
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 100px;
+    height: 25px;
+    cursor: pointer;
+    z-index: 2;
+    border-radius: 5px;
+    align-self: center;
+    margin: 25px;
+}
+
+.botao2:hover{
+    animation: c-glowing-blue .3s ease-in-out infinite;
+    animation-direction: alternate;
+    transform: scale(1.15);
+}
