@@ -9,4 +9,4 @@
 
 ### Resultado Final 👁️:  [Página Web](https://davi-perdigao.github.io/Marvel-Fight/) 
 
-![GIF Resultado](https://github.com/Davi-Perdigao/Marvel-Fight/blob/main/src/files/MarvelFight.gif)
+<img src="src/files/MarvelFight.gif">
