@@ -1,3 +1,3 @@
 # Marvel-Fight
 
-### Resultado Final 👁️:  [Página Web](https://davi-perdigao.github.io/Marvel-Fight/index.html/)
+### Resultado Final 👁️:  [Página Web](https://davi-perdigao.github.io/Marvel-Fight/)
